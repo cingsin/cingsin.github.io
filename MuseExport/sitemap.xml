@@ -6,37 +6,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://cingsin.com/images/18%E6%AD%B2%E7%9A%84%E6%B2%88%E6%B2%92%E6%88%90%E6%9C%AC.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/%E7%90%83%E8%A3%9D%E7%BD%AE%E7%85%A7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/%E7%90%83%E8%A3%9D%E7%BD%AE%E7%85%A76.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/%E8%8D%89%E9%96%93%E5%BD%8C%E7%B6%B2%E7%BE%8E.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/%E5%BF%83%E9%9D%88%E8%87%AA%E7%99%BD2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cingsin.com/images/delphinapterus_leucas_bubble_ring-crop-u2153.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/air.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/%E4%BA%BA%E9%AB%94%E8%88%9E%E5%8B%95%E6%B5%B7%E5%A0%B1final.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BD%9C%E5%93%81%E9%9B%86%E5%B0%81.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%B8%BB%E8%BB%B8%E6%B5%B7%E5%A0%B1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/%E9%9D%88%E5%85%89%E8%BC%89%E9%AB%94%E8%A8%AD%E8%A8%88%E6%B5%B7%E5%A0%B1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cingsin.com/images/%E4%BA%BA%E9%AB%94%E8%88%9E%E5%8B%95%E6%B5%B7%E5%A0%B1final-crop-u2483.jpg</image:loc>
@@ -48,13 +18,49 @@
       <image:loc>http://cingsin.com/images/%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BD%9C%E5%93%81%E9%9B%86%E5%B0%81-crop-u2481.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://cingsin.com/images/%E4%BA%BA%E9%AB%94%E8%88%9E%E5%8B%95%E6%B5%B7%E5%A0%B1final.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/%E8%8D%89%E9%96%93%E5%BD%8C%E7%B6%B2%E7%BE%8E.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BD%9C%E5%93%81%E9%9B%86%E5%B0%81.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/18%E6%AD%B2%E7%9A%84%E6%B2%88%E6%B2%92%E6%88%90%E6%9C%AC.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/%E5%BF%83%E9%9D%88%E8%87%AA%E7%99%BD2.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://cingsin.com/images/18%E6%AD%B2%E7%9A%84%E6%B2%88%E6%B2%92%E6%88%90%E6%9C%AC-crop-u2499.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cingsin.com/images/%E5%BF%83%E9%9D%88%E8%87%AA%E7%99%BD2-crop-u2497.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://cingsin.com/images/air.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/18%E6%AD%B2%E7%9A%84%E6%B2%88%E6%B2%92%E6%88%90%E6%9C%AC376x454.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/18%E6%AD%B2%E7%9A%84%E6%B2%88%E6%B2%92%E6%88%90%E6%9C%AC278x336.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/%E7%90%83%E8%A3%9D%E7%BD%AE%E7%85%A7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/%E7%90%83%E8%A3%9D%E7%BD%AE%E7%85%A76.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%B8%BB%E8%BB%B8%E6%B5%B7%E5%A0%B1.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://cingsin.com/images/img_4137-crop-u2513.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cingsin.com/images/%E9%9D%88%E5%85%89%E8%BC%89%E9%AB%94%E8%A8%AD%E8%A8%88%E6%B5%B7%E5%A0%B1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cingsin.com/images/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%B8%BB%E8%BB%B8%E6%B5%B7%E5%A0%B1211x150.jpg</image:loc>
@@ -64,12 +70,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cingsin.com/images/%E9%9D%88%E5%85%89%E8%BC%89%E9%AB%94%E8%A8%AD%E8%A8%88%E6%B5%B7%E5%A0%B1211x149.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/18%E6%AD%B2%E7%9A%84%E6%B2%88%E6%B2%92%E6%88%90%E6%9C%AC376x454.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cingsin.com/images/18%E6%AD%B2%E7%9A%84%E6%B2%88%E6%B2%92%E6%88%90%E6%9C%AC278x336.jpg</image:loc>
     </image:image>
   </url>
   <url>
